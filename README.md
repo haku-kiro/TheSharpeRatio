@@ -1,5 +1,5 @@
 # TheSharpeRatio
-DataQuest Project I did, that shows how to calculate the sharpe ratio
+DataCamp Project I did, that shows how to calculate the sharpe ratio
 
 ## Description
 
@@ -7,4 +7,4 @@ This project just showcases basic matplot, pandas and numpy usage to analyse fin
 
 ### Side notes:
 
-The datasets, boilerplate notebook, and the idea all come from the site [DataCamp]("https://www.datacamp.com").
+The datasets, boilerplate notebook, and the idea all come from the site [DataCamp.com](https://www.datacamp.com).
